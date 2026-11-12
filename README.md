@@ -1,5 +1,4 @@
 # ISR401-MoranFrixon
-cat << 'EOF' > README.md
 # Tarea TA-IND-01: IEEE 29148 y Tipos de Requisitos (Duolingo)
 
 - **Estudiante:** Frixon Morán
